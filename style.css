@@ -1,0 +1,38 @@
+body{
+	background color: #d5f2f1;
+	font-family: Time New Roman;
+	color: black;
+	text-align: justify;
+}
+
+}
+h1{
+	font-weight: 200;
+	letter-spacing: 15px;
+	font-size: 60px;
+}
+
+h2{
+	font-size: 52px
+	font-weight:lighter
+	font-weight: 500;
+}
+
+.Formation{
+	background:#e5e8e7;
+	padding: 20px;
+	margin: 60px;
+	width:800px;
+	margin: 40px auto;
+	border-radius: 5px;
+	box-shadow: 0px 2px 8px rgba(0,0,0,150)
+}
+.icons
+a{
+	color: black;
+	font-weight: 600;
+	font-size: 16px;
+	justify-content:center;, 
+a:hover{
+	color:#6C757D
+}
